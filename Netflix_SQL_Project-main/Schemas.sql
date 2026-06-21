@@ -15,3 +15,4 @@ CREATE TABLE netflix
 );
 
 SELECT * FROM netflix;
+SELECT COUNT(*) FROM netflix;
